@@ -1,0 +1,153 @@
+body
+{
+   background-color: pink;
+}
+
+.inicio
+{
+    background-color: rgb(240, 120, 140);
+    height: 130px;
+    margin-top: -20px;
+}
+
+.titulo
+{
+    margin-top: 20px;
+    font-size: 50px;
+    color: black;
+    text-shadow:
+    -2px -2px 1px white;
+}
+
+.text
+{
+    margin-top: 15px;
+    text-shadow:
+    1px 1px 3px white;
+}
+
+.fundo
+{
+    background-color: pink;
+    margin-top: -15px;
+    margin-bottom: 25px;
+}
+
+img
+{
+    border-radius: 30px;
+}
+
+.login
+{
+    margin-top: -510px;
+    margin-left: 250px;
+    width: 500px;
+}
+
+.logo
+{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 300px;
+    margin-left: 10px;
+}
+
+.tituloform
+{
+    margin-top: -20px;
+    margin-bottom: 30px;
+    color: rgb(245, 29, 65);
+    text-shadow:
+    -2px -2px 1px rgb(245, 168, 181);
+}
+
+.textsenha
+{
+    margin-bottom: -10px;
+}
+
+button
+{
+    font-style: oblique;
+    width: 150px;
+    height: 35px;
+}
+
+.senha
+{
+    margin-top: -15px;
+}
+
+.rodape
+{
+    background-color: rgb(223, 104, 124);
+    margin-top: 35px;
+    height: 275px;
+}
+
+.contatos
+{
+    font-style: italic;
+    margin-bottom: 5px;
+    text-shadow:
+    -1px -1px 3px white;
+}
+
+.face
+{
+    width: 30px;
+    margin-left: -400px;
+    margin-bottom: -45px;
+}
+
+.faceuser, .instauser
+{
+    margin-left: -240px;
+}
+
+.insta
+{
+    width: 30px;
+    margin-left: -400px;
+    margin-bottom: -45px;
+}
+
+.email
+{
+    width: 30px;
+    margin-left: 10px;
+    margin-top: -115px;
+    margin-bottom: 100px;
+}
+
+.gmail
+{
+    margin-left: 250px;
+    margin-top: -130px;
+}
+
+.fone
+{
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.telefone
+{
+    margin-left: 200px;
+    margin-top: -130px;;
+}
+
+.aviso
+{
+    margin-top: 30px;
+}
+
+footer
+{
+    margin-top: 20px;
+    margin-left: -50px;
+}
